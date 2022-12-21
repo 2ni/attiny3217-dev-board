@@ -11,4 +11,6 @@ This is a developer board for microchip ATtiny3217 (or with same pin output ATti
 - vcc measurement
 - one fet powered output
 - many jumpers to optimise power and output to get lowest power consumption possible
+- easy-to-use connector for flashing/communicating
+- any flasher supporing UPDI can also be used
 
