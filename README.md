@@ -2,6 +2,7 @@
 This is a developer board for microchip ATtiny3217 (or with same pin output ATtiny1627). With the according [software](https://github.com/2ni/attiny-boilerplate) you can flash the mcu or communicate with it over serial uart.
 
 <img src="images/PCB_apricot-mini_V1.0_real.jpg" width="400" />
+<img src="images/PCB_apricot-mini_V1.0_all_layers.png" width="400" />
 
 ## Features
 - [ATtiny3217](https://www.microchip.com/en-us/product/ATTINY3217)
