@@ -19,5 +19,5 @@ This is a developer board for microchip ATtiny3217 (or with same pin output ATti
 - on a standard breadboard you'll still have 2 holes on each side (width: pin-to-pin is 700mil/17.78mm)
 
 ## Flashing
-Easiest is with the custom mode flasher which also provides serial communication, all in one USB connector. For that matter pymcuprog must be "patched". You can read more on the [flasher]() and [software](https://github.com/2ni/attiny-boilerplate) needed.
+Easiest way to flash is done with the custom made flasher. It also provides serial communication, all in one USB connector. For that matter pymcuprog must be "patched" though. You can read more on the [flasher]() and [software](https://github.com/2ni/attiny-boilerplate) needed.
 Alternatively you can just use any flasher for UPDI.
